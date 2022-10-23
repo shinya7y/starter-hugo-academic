@@ -9,7 +9,12 @@ title: Academic
 # e.g., GitHub user site https://<username>.github.io/
 # or GitHub project site https://<username>.github.io/<repository>/
 baseURL: 'https://shinya7y.github.io/starter-hugo-academic/'
-canonifyurls: true
+
+# TODO check whether links work properly
+# If you find issues, canonifyurls may fix them
+# canonifyurls: true
+# https://github.com/wowchemy/wowchemy-hugo-themes/discussions/2758
+# https://github.com/google/docsy/issues/1114
 
 ############################
 ## LANGUAGE
