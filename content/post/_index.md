@@ -1,4 +1,5 @@
 ---
+# TODO replace the contents in this directory with your contents
 title: Posts
 cms_exclude: true
 

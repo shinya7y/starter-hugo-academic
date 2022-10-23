@@ -1,4 +1,5 @@
 ---
+# TODO replace the contents in this directory with your contents
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
